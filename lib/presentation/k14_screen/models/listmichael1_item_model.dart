@@ -1,0 +1,1 @@
+class Listmichael1ItemModel { }

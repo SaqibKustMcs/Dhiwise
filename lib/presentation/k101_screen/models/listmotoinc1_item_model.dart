@@ -1,0 +1,1 @@
+class Listmotoinc1ItemModel { }

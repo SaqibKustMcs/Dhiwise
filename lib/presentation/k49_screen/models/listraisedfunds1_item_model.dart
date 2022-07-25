@@ -1,0 +1,1 @@
+class Listraisedfunds1ItemModel { }

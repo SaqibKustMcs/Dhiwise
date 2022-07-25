@@ -1,0 +1,1 @@
+class K78Model { }
