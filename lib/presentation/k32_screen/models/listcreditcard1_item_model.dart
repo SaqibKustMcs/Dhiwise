@@ -1,0 +1,1 @@
+class Listcreditcard1ItemModel { }

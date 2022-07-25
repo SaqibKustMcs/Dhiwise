@@ -1,0 +1,1 @@
+class Listprice3ItemModel { }

@@ -1,0 +1,1 @@
+class Listloru1ItemModel { }

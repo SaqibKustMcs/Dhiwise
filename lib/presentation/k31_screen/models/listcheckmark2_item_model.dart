@@ -1,0 +1,1 @@
+class Listcheckmark2ItemModel { }

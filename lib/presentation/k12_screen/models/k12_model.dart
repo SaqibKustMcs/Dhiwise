@@ -1,0 +1,1 @@
+class K12Model { }
